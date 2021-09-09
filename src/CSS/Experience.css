@@ -1,0 +1,65 @@
+.experience_div{
+    display: flex;
+    margin-top: 70px;
+    padding-bottom: 50px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.exp_title, .Crs_Cert_title{
+    text-align: center;
+    font-size: 50px;
+    display: inline;
+    text-shadow: rgb(0 0 0 / 20%) 0 4px 5px;
+    color: #5161ce;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+    border-bottom: 3px solid #5161ce;;
+    font-family: "noticia text",sans-serif;
+}
+
+.exp_div_1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.exp_div_1 img{
+    width: 43%;
+    height: 670px;
+}
+
+.exp_desc{
+    display: flex;
+    margin-left: 40px;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.exp_desc h1{
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+    font-family: "Questrial",sans-serif;
+    font-size: 30px;
+}
+
+.exp_date, .exp_company, .exp_work{
+    font-family: "Questrial",sans-serif;
+}
+
+.exp_company{
+    font-size: 20px;
+    margin-bottom: 7px;
+    color: #5161ce;
+    font-weight: 700;
+    margin-top: 25px;
+}
+
+
+.course_title{
+    font-size: 20px;
+}
+
+.exp_list{
+    margin-top: 100px;
+}
