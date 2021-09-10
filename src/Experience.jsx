@@ -1,6 +1,7 @@
 import React from 'react';
 import './CSS/Experience.css';
 import ExperienceArray from './ExperienceArray';
+import img5 from './Images/img5.png';
 
 function Experience() {
     return (
@@ -22,7 +23,7 @@ function Experience() {
                             );
                         })}
                     </div>
-                    <img src="https://www.kindpng.com/picc/m/13-135031_lead-generation-services-consulting-services-consultancy-services-png.png" alt="Experience" />
+                    <img src={img5} alt="Experience" />
                 </div>
             </div>
         </>

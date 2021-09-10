@@ -1,5 +1,6 @@
 import React from 'react';
 import './CSS/Education.css';
+import img4 from './Images/img4.jpg';
 
 function Education() {
     return (
@@ -7,7 +8,7 @@ function Education() {
             <div className="education_div">
                 <p className="educ_title">Education</p>
                 <div className="education_div_1">
-                    <img src="https://png.pngtree.com/png-clipart/20200501/ourmid/pngtree-hand-drawn-cartoon-education-learning-space-illustration-png-image_2197270.jpg" alt="" />
+                    <img src={img4} alt="Education" />
                     <div className="education_desc">
                         <h1>ITM Group of Institutions Gwalior</h1>
                         <p className="state_country">Gwalior Madhya Pradesh, India.</p>
