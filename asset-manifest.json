@@ -1,22 +1,41 @@
 {
   "files": {
-    "main.css": "/Anant-Kumawat_Portfolio/static/css/main.5f9ff703.chunk.css",
-    "main.js": "/Anant-Kumawat_Portfolio/static/js/main.8e9a1f40.chunk.js",
-    "main.js.map": "/Anant-Kumawat_Portfolio/static/js/main.8e9a1f40.chunk.js.map",
+    "main.css": "/Anant-Kumawat_Portfolio/static/css/main.88e1464a.chunk.css",
+    "main.js": "/Anant-Kumawat_Portfolio/static/js/main.bc82f95a.chunk.js",
+    "main.js.map": "/Anant-Kumawat_Portfolio/static/js/main.bc82f95a.chunk.js.map",
     "runtime-main.js": "/Anant-Kumawat_Portfolio/static/js/runtime-main.845fa02b.js",
     "runtime-main.js.map": "/Anant-Kumawat_Portfolio/static/js/runtime-main.845fa02b.js.map",
     "static/js/2.05bba9a3.chunk.js": "/Anant-Kumawat_Portfolio/static/js/2.05bba9a3.chunk.js",
     "static/js/2.05bba9a3.chunk.js.map": "/Anant-Kumawat_Portfolio/static/js/2.05bba9a3.chunk.js.map",
     "index.html": "/Anant-Kumawat_Portfolio/index.html",
-    "static/css/main.5f9ff703.chunk.css.map": "/Anant-Kumawat_Portfolio/static/css/main.5f9ff703.chunk.css.map",
+    "static/css/main.88e1464a.chunk.css.map": "/Anant-Kumawat_Portfolio/static/css/main.88e1464a.chunk.css.map",
     "static/js/2.05bba9a3.chunk.js.LICENSE.txt": "/Anant-Kumawat_Portfolio/static/js/2.05bba9a3.chunk.js.LICENSE.txt",
+    "static/media/Background_Color_Change.65723dbb.png": "/Anant-Kumawat_Portfolio/static/media/Background_Color_Change.65723dbb.png",
+    "static/media/Blogging.16b6378f.png": "/Anant-Kumawat_Portfolio/static/media/Blogging.16b6378f.png",
+    "static/media/Current_Date_And_Time.84d286d3.png": "/Anant-Kumawat_Portfolio/static/media/Current_Date_And_Time.84d286d3.png",
+    "static/media/Digital_Clock.4a309b79.png": "/Anant-Kumawat_Portfolio/static/media/Digital_Clock.4a309b79.png",
+    "static/media/Guess_The_Number_Game.d0a096d2.png": "/Anant-Kumawat_Portfolio/static/media/Guess_The_Number_Game.d0a096d2.png",
+    "static/media/Increment_And_Decrement.0191d29e.png": "/Anant-Kumawat_Portfolio/static/media/Increment_And_Decrement.0191d29e.png",
+    "static/media/Netflix_Series_List_React.b940d440.png": "/Anant-Kumawat_Portfolio/static/media/Netflix_Series_List_React.b940d440.png",
+    "static/media/Simple_Calculator.93cb418a.png": "/Anant-Kumawat_Portfolio/static/media/Simple_Calculator.93cb418a.png",
+    "static/media/Simple_Greating_Website_React.b973226e.png": "/Anant-Kumawat_Portfolio/static/media/Simple_Greating_Website_React.b973226e.png",
+    "static/media/Slot_Machine_Game.295a4ff2.png": "/Anant-Kumawat_Portfolio/static/media/Slot_Machine_Game.295a4ff2.png",
+    "static/media/Spark_Foundation.9e6c4ebe.png": "/Anant-Kumawat_Portfolio/static/media/Spark_Foundation.9e6c4ebe.png",
+    "static/media/TSF_Entertainment.19f319a3.png": "/Anant-Kumawat_Portfolio/static/media/TSF_Entertainment.19f319a3.png",
+    "static/media/Tic_Tac_Toe_Game.a2b50e73.png": "/Anant-Kumawat_Portfolio/static/media/Tic_Tac_Toe_Game.a2b50e73.png",
+    "static/media/ToDo_List.ecb06711.png": "/Anant-Kumawat_Portfolio/static/media/ToDo_List.ecb06711.png",
+    "static/media/Vidyayan.6d008b76.png": "/Anant-Kumawat_Portfolio/static/media/Vidyayan.6d008b76.png",
     "static/media/img1.0fa135d6.jpg": "/Anant-Kumawat_Portfolio/static/media/img1.0fa135d6.jpg",
-    "static/media/img2.7a9e31ad.jpg": "/Anant-Kumawat_Portfolio/static/media/img2.7a9e31ad.jpg"
+    "static/media/img2.7a9e31ad.jpg": "/Anant-Kumawat_Portfolio/static/media/img2.7a9e31ad.jpg",
+    "static/media/img3.328b215e.png": "/Anant-Kumawat_Portfolio/static/media/img3.328b215e.png",
+    "static/media/img4.9b8ace96.jpg": "/Anant-Kumawat_Portfolio/static/media/img4.9b8ace96.jpg",
+    "static/media/img5.887eb469.png": "/Anant-Kumawat_Portfolio/static/media/img5.887eb469.png",
+    "static/media/kawa_space.80b38a67.png": "/Anant-Kumawat_Portfolio/static/media/kawa_space.80b38a67.png"
   },
   "entrypoints": [
     "static/js/runtime-main.845fa02b.js",
     "static/js/2.05bba9a3.chunk.js",
-    "static/css/main.5f9ff703.chunk.css",
-    "static/js/main.8e9a1f40.chunk.js"
+    "static/css/main.88e1464a.chunk.css",
+    "static/js/main.bc82f95a.chunk.js"
   ]
 }
