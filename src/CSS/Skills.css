@@ -8,6 +8,18 @@
     justify-content: center;
 }
 
+.skills_title{
+    text-align: center;
+    font-size: 50px;
+    display: inline;
+    text-shadow: rgb(0 0 0 / 20%) 0 4px 5px;
+    color: #5161ce;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+    border-bottom: 3px solid #5161ce;;
+    font-family: "noticia text",sans-serif;
+}
+
 .skillsset_div{
     margin-top: 40px;
     width: 90%;
@@ -43,5 +55,37 @@
 
 .skills_div img{
     width: 50%;
-    margin-top: 30px;
+    margin-top: 20px;
+}
+
+@media(max-width:1150px){
+    .skills_div{
+        padding-bottom: 10px;
+    }
+    .skills_title{
+        font-size: 40px;
+    }
+    .skillsset_div_1{
+        flex-direction: column;
+        margin-bottom: 50px;
+        align-items: center;
+    }
+    .skillsset{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .skillsset_div span{
+        padding: 5px 20px;
+        margin-top: 10px;
+    }
+    .skillsset_div label{
+        margin-bottom: 10px;
+        text-align: center;
+        margin-right: 5px;
+    }
+    .skills_div img{
+        width: 90%;
+    }
 }

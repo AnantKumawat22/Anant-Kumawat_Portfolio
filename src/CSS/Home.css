@@ -1,5 +1,12 @@
 html{
     scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 
 *{
@@ -76,11 +83,23 @@ html{
     color: rgb(39, 39, 39);
 }
 
+.Crs_Cert_title{
+    text-align: center;
+    font-size: 50px;
+    display: inline;
+    text-shadow: rgb(0 0 0 / 20%) 0 4px 5px;
+    color: #5161ce;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+    border-bottom: 3px solid #5161ce;;
+    font-family: "noticia text",sans-serif;
+}
+
 .Courses_certificates_div{
     width: 100%;
     display: flex;
     background-color: white;
-    padding: 100px 0px;
+    padding: 20px 0px;
     align-items: center;
     justify-content: space-between;
     flex-direction: column;
@@ -126,6 +145,7 @@ html{
 
 .crs_cert_desc{
     font-size: 25px;
+    text-align: center;
     font-family: "Questrial",sans-serif;
     letter-spacing: 0.5px;
 }
@@ -183,5 +203,28 @@ html{
     .aboutme_img{
         width: 90%;
         height: 60%;
+    }
+}
+
+@media(max-width:960px){
+    .Crs_Cert_div_1{
+        flex-direction: column;
+    }
+    .Crs_Cert_div_2{
+        margin-top: 30px;
+    }
+    .Courses_certificates_div img{
+        width: 90%;
+    }
+    .crs_cert_desc{
+        font-size: 18px;
+    }
+    .Courses_certificates_div{
+        padding-bottom: 50px;
+    }
+    .Crs_Cert_title{
+        font-size: 26px;
+        text-align: center;
+        padding: 0px 10px;
     }
 }

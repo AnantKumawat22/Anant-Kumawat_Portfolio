@@ -6,7 +6,7 @@ function Skills() {
     return (
         <>
            <div className="skills_div">
-          <p className="Crs_Cert_title">Skills</p>
+          <p className="skills_title">Skills</p>
           <img src={img2} alt="Skills" />
           <div className="skillsset_div">
             <div className="skillsset_div_1">

@@ -25,11 +25,11 @@ function Home() {
 
         <Education />
 
-        {/* <Experience /> */}
+        <Experience />
 
-        {/* <Skills/> */}
+        <Skills/>
 
-        {/* <div className="Courses_certificates_div">
+        <div className="Courses_certificates_div">
           <p className="Crs_Cert_title">Courses and Certificates</p>
           <div className="Crs_Cert_div_1">
             <img src={img1} />
@@ -38,12 +38,9 @@ function Home() {
               <Link to="">See More</Link>
             </div>
           </div>
-        </div> */}
+        </div>
 
-
-
-
-        {/* <Footer /> */}
+        <Footer />
       </div>
     </>
   );
