@@ -161,7 +161,7 @@ html{
         flex-direction: column;
     }
     .aboutme_desc h1 .name_span{
-        font-size: 30px;
+        font-size: 35px;
         margin-left: 5px;
     }
     .aboutme_div span{
@@ -174,7 +174,7 @@ html{
         align-items: center;
     }
     .aboutme_desc h1 .greet_span{
-        font-size: 16px;
+        font-size: 20px;
     }
     .aboutme_div p{
         font-size: 15px;
