@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './CSS/Navbar.css';
+import resume from './Images/Anant-Kumawat_Resume.pdf';
 
 function Navbar() {
     return (
@@ -14,7 +15,7 @@ function Navbar() {
                 <ul>
                     <li><Link to="/"><i class="fas fa-home"></i> <span> Home</span></Link></li>
                     <li><Link to="/projects"><i class="fas fa-lightbulb"></i> <span> Projects</span></Link></li>
-                    <li><Link to="#"><i class="fas fa-file"></i> <span> Resume</span></Link></li>
+                    <li><a href={resume}><i class="fas fa-file"></i> <span> Resume</span></a></li>
                     <li><Link to="#"><i class="fas fa-envelope"></i> <span>Contact Me</span></Link></li>
                 </ul>
                 
