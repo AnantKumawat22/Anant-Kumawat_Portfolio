@@ -7,7 +7,7 @@ const CrsAndCertCard = (props) => {
                     <h3 className="card_head">{props.title}</h3>
                     <span className="card_span">{props.sname}</span>
                     <a href={props.link} target="_blank">
-                        <button className="card_btn">Open Project</button>
+                        <button className="card_btn">Open Certificate</button>
                     </a>
                 </div>
             </div>
