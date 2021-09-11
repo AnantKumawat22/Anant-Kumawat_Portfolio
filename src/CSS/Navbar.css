@@ -81,7 +81,7 @@
         padding-top: 10px;
         background-color: rgb(255, 255, 255);
         z-index: 999;
-        transition: top 1s ease-in-out;
+        transition: top 0.7s ease-in-out;
         box-shadow: 0 4px 5px 0 rgb(0 0 0 / 20%), 0 0 3px 0 rgb(0 0 0 / 10%);
     }
     .navbar ul li{
