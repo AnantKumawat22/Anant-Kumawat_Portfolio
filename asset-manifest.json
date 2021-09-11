@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Anant-Kumawat_Portfolio/static/css/main.e73d16a9.chunk.css",
-    "main.js": "/Anant-Kumawat_Portfolio/static/js/main.bb2176f3.chunk.js",
-    "main.js.map": "/Anant-Kumawat_Portfolio/static/js/main.bb2176f3.chunk.js.map",
+    "main.css": "/Anant-Kumawat_Portfolio/static/css/main.3f925515.chunk.css",
+    "main.js": "/Anant-Kumawat_Portfolio/static/js/main.0f091e71.chunk.js",
+    "main.js.map": "/Anant-Kumawat_Portfolio/static/js/main.0f091e71.chunk.js.map",
     "runtime-main.js": "/Anant-Kumawat_Portfolio/static/js/runtime-main.845fa02b.js",
     "runtime-main.js.map": "/Anant-Kumawat_Portfolio/static/js/runtime-main.845fa02b.js.map",
     "static/js/2.05bba9a3.chunk.js": "/Anant-Kumawat_Portfolio/static/js/2.05bba9a3.chunk.js",
     "static/js/2.05bba9a3.chunk.js.map": "/Anant-Kumawat_Portfolio/static/js/2.05bba9a3.chunk.js.map",
     "index.html": "/Anant-Kumawat_Portfolio/index.html",
-    "static/css/main.e73d16a9.chunk.css.map": "/Anant-Kumawat_Portfolio/static/css/main.e73d16a9.chunk.css.map",
+    "static/css/main.3f925515.chunk.css.map": "/Anant-Kumawat_Portfolio/static/css/main.3f925515.chunk.css.map",
     "static/js/2.05bba9a3.chunk.js.LICENSE.txt": "/Anant-Kumawat_Portfolio/static/js/2.05bba9a3.chunk.js.LICENSE.txt",
+    "static/media/Anant-Kumawat_Resume.8be9d433.pdf": "/Anant-Kumawat_Portfolio/static/media/Anant-Kumawat_Resume.8be9d433.pdf",
     "static/media/Background_Color_Change.65723dbb.png": "/Anant-Kumawat_Portfolio/static/media/Background_Color_Change.65723dbb.png",
     "static/media/Blogging.16b6378f.png": "/Anant-Kumawat_Portfolio/static/media/Blogging.16b6378f.png",
     "static/media/Current_Date_And_Time.84d286d3.png": "/Anant-Kumawat_Portfolio/static/media/Current_Date_And_Time.84d286d3.png",
@@ -25,17 +26,23 @@
     "static/media/Tic_Tac_Toe_Game.a2b50e73.png": "/Anant-Kumawat_Portfolio/static/media/Tic_Tac_Toe_Game.a2b50e73.png",
     "static/media/ToDo_List.ecb06711.png": "/Anant-Kumawat_Portfolio/static/media/ToDo_List.ecb06711.png",
     "static/media/Vidyayan.6d008b76.png": "/Anant-Kumawat_Portfolio/static/media/Vidyayan.6d008b76.png",
+    "static/media/gfg_html.fb29bc34.png": "/Anant-Kumawat_Portfolio/static/media/gfg_html.fb29bc34.png",
     "static/media/img1.0fa135d6.jpg": "/Anant-Kumawat_Portfolio/static/media/img1.0fa135d6.jpg",
     "static/media/img2.7a9e31ad.jpg": "/Anant-Kumawat_Portfolio/static/media/img2.7a9e31ad.jpg",
     "static/media/img3.328b215e.png": "/Anant-Kumawat_Portfolio/static/media/img3.328b215e.png",
     "static/media/img4.9b8ace96.jpg": "/Anant-Kumawat_Portfolio/static/media/img4.9b8ace96.jpg",
     "static/media/img5.887eb469.png": "/Anant-Kumawat_Portfolio/static/media/img5.887eb469.png",
-    "static/media/kawa_space.80b38a67.png": "/Anant-Kumawat_Portfolio/static/media/kawa_space.80b38a67.png"
+    "static/media/kawa_space.80b38a67.png": "/Anant-Kumawat_Portfolio/static/media/kawa_space.80b38a67.png",
+    "static/media/learnvern_css.26603c67.png": "/Anant-Kumawat_Portfolio/static/media/learnvern_css.26603c67.png",
+    "static/media/progate_java.4a0e4b3c.png": "/Anant-Kumawat_Portfolio/static/media/progate_java.4a0e4b3c.png",
+    "static/media/skillzcafe_cpp.a4edac61.png": "/Anant-Kumawat_Portfolio/static/media/skillzcafe_cpp.a4edac61.png",
+    "static/media/skillzcafe_java.53a610e7.png": "/Anant-Kumawat_Portfolio/static/media/skillzcafe_java.53a610e7.png",
+    "static/media/tcs_ion.b16aaaef.png": "/Anant-Kumawat_Portfolio/static/media/tcs_ion.b16aaaef.png"
   },
   "entrypoints": [
     "static/js/runtime-main.845fa02b.js",
     "static/js/2.05bba9a3.chunk.js",
-    "static/css/main.e73d16a9.chunk.css",
-    "static/js/main.bb2176f3.chunk.js"
+    "static/css/main.3f925515.chunk.css",
+    "static/js/main.0f091e71.chunk.js"
   ]
 }
