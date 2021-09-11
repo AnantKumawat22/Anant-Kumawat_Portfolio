@@ -36,7 +36,7 @@ function Home() {
             <img src={img1} alt="Courses and Certificates" />
             <div className="Crs_Cert_div_2">
               <p className="crs_cert_desc">Here are some of my attended courses and their certificates.</p>
-              <Link to="">See More</Link>
+              <Link to="/coursesandcertificate">See More</Link>
             </div>
           </div>
         </div>
