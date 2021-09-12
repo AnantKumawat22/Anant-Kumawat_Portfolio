@@ -16,7 +16,7 @@ function Navbar() {
                     <li><Link to="/"><i class="fas fa-home"></i> <span> Home</span></Link></li>
                     <li><Link to="/projects"><i class="fas fa-lightbulb"></i> <span> Projects</span></Link></li>
                     <li><a href={resume}><i class="fas fa-file"></i> <span> Resume</span></a></li>
-                    <li><Link to="#"><i class="fas fa-envelope"></i> <span>Contact Me</span></Link></li>
+                    <li><Link to="/contactus"><i class="fas fa-envelope"></i> <span>Contact Me</span></Link></li>
                 </ul>
                 
             </nav>

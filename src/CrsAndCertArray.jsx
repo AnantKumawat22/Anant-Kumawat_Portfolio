@@ -32,7 +32,7 @@ const CrsAndCertArray = [
         imgsrc :skillzcafe_cpp,
         sname :"Completed C++ tutorial for complete beginners.",
         title :"Skillzcafe",
-        link :"https://raw.githubusercontent.com/AnantKumawat22/Anant-Kumawat_Portfolio/main/src/Images/skillzcafe_css.png"
+        link :"https://raw.githubusercontent.com/AnantKumawat22/Anant-Kumawat_Portfolio/main/src/Images/skillzcafe_cpp.png"
     },
     {
         id : 5,
