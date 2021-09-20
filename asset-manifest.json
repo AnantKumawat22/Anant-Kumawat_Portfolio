@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Anant-Kumawat_Portfolio/static/css/main.d864cb3c.chunk.css",
-    "main.js": "/Anant-Kumawat_Portfolio/static/js/main.3e7e411c.chunk.js",
-    "main.js.map": "/Anant-Kumawat_Portfolio/static/js/main.3e7e411c.chunk.js.map",
+    "main.js": "/Anant-Kumawat_Portfolio/static/js/main.d5ebc2e5.chunk.js",
+    "main.js.map": "/Anant-Kumawat_Portfolio/static/js/main.d5ebc2e5.chunk.js.map",
     "runtime-main.js": "/Anant-Kumawat_Portfolio/static/js/runtime-main.845fa02b.js",
     "runtime-main.js.map": "/Anant-Kumawat_Portfolio/static/js/runtime-main.845fa02b.js.map",
     "static/js/2.05bba9a3.chunk.js": "/Anant-Kumawat_Portfolio/static/js/2.05bba9a3.chunk.js",
@@ -11,18 +11,15 @@
     "static/css/main.d864cb3c.chunk.css.map": "/Anant-Kumawat_Portfolio/static/css/main.d864cb3c.chunk.css.map",
     "static/js/2.05bba9a3.chunk.js.LICENSE.txt": "/Anant-Kumawat_Portfolio/static/js/2.05bba9a3.chunk.js.LICENSE.txt",
     "static/media/Anant-Kumawat_Resume.8be9d433.pdf": "/Anant-Kumawat_Portfolio/static/media/Anant-Kumawat_Resume.8be9d433.pdf",
-    "static/media/Background_Color_Change.65723dbb.png": "/Anant-Kumawat_Portfolio/static/media/Background_Color_Change.65723dbb.png",
     "static/media/Blogging.16b6378f.png": "/Anant-Kumawat_Portfolio/static/media/Blogging.16b6378f.png",
-    "static/media/Current_Date_And_Time.84d286d3.png": "/Anant-Kumawat_Portfolio/static/media/Current_Date_And_Time.84d286d3.png",
-    "static/media/Digital_Clock.4a309b79.png": "/Anant-Kumawat_Portfolio/static/media/Digital_Clock.4a309b79.png",
+    "static/media/CalculatorApp_React.2666143d.png": "/Anant-Kumawat_Portfolio/static/media/CalculatorApp_React.2666143d.png",
     "static/media/Guess_The_Number_Game.d0a096d2.png": "/Anant-Kumawat_Portfolio/static/media/Guess_The_Number_Game.d0a096d2.png",
-    "static/media/Increment_And_Decrement.0191d29e.png": "/Anant-Kumawat_Portfolio/static/media/Increment_And_Decrement.0191d29e.png",
+    "static/media/Mini_Projects.5eb1eda6.png": "/Anant-Kumawat_Portfolio/static/media/Mini_Projects.5eb1eda6.png",
     "static/media/Netflix_Series_List_React.b940d440.png": "/Anant-Kumawat_Portfolio/static/media/Netflix_Series_List_React.b940d440.png",
     "static/media/Simple_Calculator.93cb418a.png": "/Anant-Kumawat_Portfolio/static/media/Simple_Calculator.93cb418a.png",
-    "static/media/Simple_Greating_Website_React.b973226e.png": "/Anant-Kumawat_Portfolio/static/media/Simple_Greating_Website_React.b973226e.png",
-    "static/media/Slot_Machine_Game.295a4ff2.png": "/Anant-Kumawat_Portfolio/static/media/Slot_Machine_Game.295a4ff2.png",
     "static/media/Spark_Foundation.9e6c4ebe.png": "/Anant-Kumawat_Portfolio/static/media/Spark_Foundation.9e6c4ebe.png",
     "static/media/TSF_Entertainment.19f319a3.png": "/Anant-Kumawat_Portfolio/static/media/TSF_Entertainment.19f319a3.png",
+    "static/media/The_Entrepreneurship_Network.20399cee.png": "/Anant-Kumawat_Portfolio/static/media/The_Entrepreneurship_Network.20399cee.png",
     "static/media/Tic_Tac_Toe_Game.a2b50e73.png": "/Anant-Kumawat_Portfolio/static/media/Tic_Tac_Toe_Game.a2b50e73.png",
     "static/media/ToDo_List.ecb06711.png": "/Anant-Kumawat_Portfolio/static/media/ToDo_List.ecb06711.png",
     "static/media/Vidyayan.6d008b76.png": "/Anant-Kumawat_Portfolio/static/media/Vidyayan.6d008b76.png",
@@ -44,6 +41,6 @@
     "static/js/runtime-main.845fa02b.js",
     "static/js/2.05bba9a3.chunk.js",
     "static/css/main.d864cb3c.chunk.css",
-    "static/js/main.3e7e411c.chunk.js"
+    "static/js/main.d5ebc2e5.chunk.js"
   ]
 }
