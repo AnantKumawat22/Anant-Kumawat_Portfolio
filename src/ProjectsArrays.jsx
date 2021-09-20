@@ -1,19 +1,16 @@
-import Simple_Greating_Website_React from './Images/Simple_Greating_Website_React.png';
-import Background_Color_Change from './Images/Background_Color_Change.png';
-import Current_Date_And_Time from './Images/Current_Date_And_Time.png';
-import Digital_Clock from './Images/Digital_Clock.png';
 import Guess_The_Number_Game from './Images/Guess_The_Number_Game.png';
-import Increment_And_Decrement from './Images/Increment_And_Decrement.png';
 import kawa_space from './Images/kawa_space.png';
 import Netflix_Series_List_React from './Images/Netflix_Series_List_React.png';
 import Simple_Calculator from './Images/Simple_Calculator.png';
-import Slot_Machine_Game from './Images/Slot_Machine_Game.png';
 import Tic_Tac_Toe_Game from './Images/Tic_Tac_Toe_Game.png';
 import ToDo_List from './Images/ToDo_List.png';
 import Spark_Foundation from './Images/Spark_Foundation.png';
 import Blogging from './Images/Blogging.png';
 import Vidyayan from './Images/Vidyayan.png';
 import TSF_Entertainment from './Images/TSF_Entertainment.png';
+import Mini_Projects from './Images/Mini_Projects.png';
+import The_Entrepreneurship_Network from './Images/The_Entrepreneurship_Network.png';
+import CalculatorApp_React from './Images/CalculatorApp_React.png';
 
 const ProjectsArrays = [
     {
@@ -60,75 +57,54 @@ const ProjectsArrays = [
     },
     {
         id: 7,
-        imgsrc: Background_Color_Change,
-        sname: "Change Background in different colors.",
-        title: "Background Color Change",
-        link: "https://anantkumawat22.github.io/Background_Color_Change/"
-    },
-    {
-        id: 8,
-        imgsrc: Simple_Greating_Website_React,
-        sname: "This project will greet you according to time.",
-        title: "Simple Greating Website",
-        link: "https://anantkumawat22.github.io/Simple_Greating_Website_React/"
-    },
-
-    {
-        id: 9,
-        imgsrc: Current_Date_And_Time,
-        sname: "This will show you current date and time.",
-        title: "Current Date And Time",
-        link: "https://anantkumawat22.github.io/Current_Date_And_Time/"
-    },
-    {
-        id: 10,
-        imgsrc: Digital_Clock,
-        sname: "Digital clock will show you exact time.",
-        title: "Digital Clock",
-        link: "https://anantkumawat22.github.io/Digital_Clock/"
-    },
-    {
-        id: 11,
-        imgsrc: Increment_And_Decrement,
-        sname: "Increase or decrease a number project in React.",
-        title: "Increment And Decrement",
-        link: "https://anantkumawat22.github.io/Increment_And_Decrement/"
-    },
-    {
-        id: 12,
         imgsrc: kawa_space,
         sname: "Creating a Frontend design using React.",
         title: "Kawa Space",
         link: "https://anantkumawat22.github.io/Kawa-Space/"
     },
     {
-        id: 13,
+        id: 8,
         imgsrc: Simple_Calculator,
         sname: "It is a Calculator which perform basic operation.",
         title: "Simple Calculator",
         link: "https://anantkumawat22.github.io/Simple_Calculator-/Index.html"
     },
     {
-        id: 14,
-        imgsrc: Slot_Machine_Game,
-        sname: "Slot machine game for the programmer only.",
-        title: "Slot Machine Game",
-        link: "https://anantkumawat22.github.io/Slot_Machine_Game/"
-    },
-    {
-        id: 15,
+        id: 9,
         imgsrc: Tic_Tac_Toe_Game,
         sname: "This is Simple And Responsive TIC TAC TOE Game.",
         title: "Tic Tac Toe Game",
         link: "https://anantkumawat22.github.io/Tic_Tac_Toe_Game-/Index.html"
     },
     {
-        id: 16,
+        id: 10,
         imgsrc: TSF_Entertainment,
         sname: "This is a website where you can watch and search movies and series.",
         title: "365-Entertainments",
         link: "https://anantkumawat22.github.io/365-Entertainments/Index.html"
     },
+    {
+        id: 11,
+        imgsrc: The_Entrepreneurship_Network,
+        sname: "The Entrepreneurship Network Website.",
+        title: "The-Entrepreneurship-Network",
+        link: "https://anantkumawat22.github.io/The-Entrepreneurship-Network/"
+    },
+    {
+        id: 12,
+        imgsrc: CalculatorApp_React,
+        sname: "Developed a Calculator app in React.",
+        title: "Calculator App",
+        link: "https://anantkumawat22.github.io/CalculatorApp_React/"
+    },
+    {
+        id: 13,
+        imgsrc: Mini_Projects,
+        sname: "Developed small Projects in react.",
+        title: "Mini-Projects",
+        link: "https://anantkumawat22.github.io/Mini_Projects/"
+    },
+
 ]
 
 export default ProjectsArrays;
