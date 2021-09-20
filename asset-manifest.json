@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Anant-Kumawat_Portfolio/static/css/main.f52be410.chunk.css",
+    "main.css": "/Anant-Kumawat_Portfolio/static/css/main.4528e80e.chunk.css",
     "main.js": "/Anant-Kumawat_Portfolio/static/js/main.328f4461.chunk.js",
     "main.js.map": "/Anant-Kumawat_Portfolio/static/js/main.328f4461.chunk.js.map",
     "runtime-main.js": "/Anant-Kumawat_Portfolio/static/js/runtime-main.845fa02b.js",
@@ -8,7 +8,7 @@
     "static/js/2.05bba9a3.chunk.js": "/Anant-Kumawat_Portfolio/static/js/2.05bba9a3.chunk.js",
     "static/js/2.05bba9a3.chunk.js.map": "/Anant-Kumawat_Portfolio/static/js/2.05bba9a3.chunk.js.map",
     "index.html": "/Anant-Kumawat_Portfolio/index.html",
-    "static/css/main.f52be410.chunk.css.map": "/Anant-Kumawat_Portfolio/static/css/main.f52be410.chunk.css.map",
+    "static/css/main.4528e80e.chunk.css.map": "/Anant-Kumawat_Portfolio/static/css/main.4528e80e.chunk.css.map",
     "static/js/2.05bba9a3.chunk.js.LICENSE.txt": "/Anant-Kumawat_Portfolio/static/js/2.05bba9a3.chunk.js.LICENSE.txt",
     "static/media/Anant-Kumawat_Resume.8be9d433.pdf": "/Anant-Kumawat_Portfolio/static/media/Anant-Kumawat_Resume.8be9d433.pdf",
     "static/media/Blogging.16b6378f.png": "/Anant-Kumawat_Portfolio/static/media/Blogging.16b6378f.png",
@@ -40,7 +40,7 @@
   "entrypoints": [
     "static/js/runtime-main.845fa02b.js",
     "static/js/2.05bba9a3.chunk.js",
-    "static/css/main.f52be410.chunk.css",
+    "static/css/main.4528e80e.chunk.css",
     "static/js/main.328f4461.chunk.js"
   ]
 }
