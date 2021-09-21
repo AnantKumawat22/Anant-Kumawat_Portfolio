@@ -19,7 +19,7 @@ function Home() {
           <div className="aboutme_desc">
             <h1><span className="greet_span">Hi, I'm</span> <span className="name_span">Anant Kumawat</span></h1>
             <span>3rd year B.Tech, ITM Group of Institutions Gwalior, India.</span>
-            <p>I am a 3rd year student and pursuing B.Tech in Computer Science and Engineering. I am highly passionate to work as a <u>Full Stack Java Developer</u> and <u>Flutter Developer</u>. I like to do <u>problem solving</u> questions and learning new Technologies.</p>
+            <p>I am a 3rd year student and pursuing B.Tech in Computer Science and Engineering. I am highly passionate to work as a <u>Frontend Developer</u>. I like to do <u>problem solving</u> questions and learning new Technologies.</p>
           </div>
           <img src={img3} alt="About me" className="aboutme_img" />
         </div>
